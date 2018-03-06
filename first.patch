@@ -1,0 +1,15 @@
+Index: app/src/main/java/org/techno_hub/talaaea_alamal/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/org/techno_hub/talaaea_alamal/MainActivity.java	(date 1520355191000)
++++ app/src/main/java/org/techno_hub/talaaea_alamal/MainActivity.java	(revision )
+@@ -102,6 +102,7 @@
+ //        } else if (id == R.id.nav_share) {
+ //
+ //        } else if (id == R.id.nav_send) {
++
+ //
+ //        }
+ 
