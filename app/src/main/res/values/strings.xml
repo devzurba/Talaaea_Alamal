@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">مدرسة طلائع الأمل</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="logoDescreption">الإعدادات</string>
+
+    <string name="action_settings">الإعدادات</string>
+    <string name="trackChild">تتبع الطفل</string>
+    <string name="changeLoc">تغيير مكان التوصيل</string>
+    <string name="messagesNotification">الرسائل والاشعارات</string>
+    <string name="contactCall">الإتصال</string>
+    <string name="settingMenu">إعدادات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="info">المعلومات</string>
+
+
+</resources>

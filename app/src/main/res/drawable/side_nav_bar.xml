@@ -1,0 +1,16 @@
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:shape="rectangle">--><!--&lt;!&ndash;<gradient&ndash;&gt;--><!--&lt;!&ndash;android:angle="135"&ndash;&gt;--><!--&lt;!&ndash;android:centerColor="#000000"&ndash;&gt;--><!--&lt;!&ndash;android:endColor="#FFFFFF"&ndash;&gt;--><!--&lt;!&ndash;android:startColor="#58c23c"&ndash;&gt;--><!--&lt;!&ndash;android:type="linear" />&ndash;&gt;--><!--<solid android:color="@drawable/bk.png"/>--><!--</shape>-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bk" />
+    <item>
+        <shape
+            android:shape="rectangle"
+            android:padding="10dp">
+            <corners
+                android:bottomRightRadius="5dp"
+                android:bottomLeftRadius="5dp"
+                android:topLeftRadius="5dp"
+                android:topRightRadius="5dp" />
+        </shape>
+    </item>
+
+</layer-list>
